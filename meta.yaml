@@ -5,5 +5,5 @@
     shell: /bin/bash
     sudo: ['ALL=(ALL) NOPASSWD:ALL']
     ssh-authorized-keys:
-     - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDeCmOawOyMadVrQsFVkHje58lJOemYls4PH8rfLVWqDNpkEBUWk2PPZRz/9IsLpXK6uSl2tWd3PgNF76Hg1ULHwc1pCVkPhZu4/kh0cTzptnqfy8W44y1VwNxUGfF3SE6FIXE9Un6LeV4/2Bf0rrTKOkQvzqDp1hR5c5e1PixGuGDJy3vaH/ufCxlhpxmAiJEwKj8oBdlar5zPE2kl+tDVhD28byAHwBZoQT78bZxqbcuZe9q8Zl6izLzPM5S2EieMpzkG5W06owtvlUU/CIon/6LKx4NVRUOqsp/VBCoZQHfUaGyHdyuLXR04BP5vCzjh7DESyu0VzOF+YobiwR/7KOPMOA+7YnTNHyCE4E74oquc6bQSdj6/SbompoE8dCVIFtq3m0W3eeyyTsmesJwCfIFeK6WMZoRrRWsL91P8HuA14V5DT7pMpVtcMr3kDxFUsU+rMxdosbjYmkTU8slhkKC0UkQS1El9Qs+ertXAnCFuFkfQcJ/FWDTtw93rRgE= dm@dm-VMware-Virtual-Platform
+     - ssh-rsa AAAAB3NzaC1***************************UWk2PPZRz/9IsLpXK6uSl2tWd3PgNF76Hg1ULHwc1pCVkPhZu4/kh0cTzptnqfy8W44y1VwNxUGfF3SE6FIXE9Un6LeV4/2Bf0rrTKOkQvzqDp1hR5c5e1PixGuGDJy3vaH/ufCxlhpxmAiJEwKj8oBdlar5zPE2kl+tDVhD28byAHwBZoQT78bZxqbcuZe9q8Zl6izLzPM5S2EieMpzkG5W06owtvlUU/CIon/6LKx4NVRUOqsp/VBCoZQHfUaGyHdyuLXR04BP5vCzjh7DESyu0VzOF+YobiwR/7KOPMOA+7YnTNHyCE4E74oquc6bQSdj6/SbompoE8dCVIFtq3m0W3eeyyTsmesJwCfIFeK6WMZoRrRWsL91P8HuA14V5DT7pMpVtcMr3kDxFUsU+rMxdosbjYmkTU8slhkKC0UkQS1El9Qs+ertXAnCFuFkfQcJ/FWDTtw93rRgE= dm@dm-VMware-Virtual-Platform
 
